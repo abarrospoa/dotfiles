@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = abarrospoa@yahoo.ca
+	name = Alexandre Barros
